@@ -17,7 +17,7 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/ваш-ник/ваш-репозиторий.git
+git clone https://github.com/daglsn/django-blog.git
 ```
 2. Установить зависимости:
 ```bash
